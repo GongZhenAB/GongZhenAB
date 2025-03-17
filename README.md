@@ -12,18 +12,14 @@
     <h2>社交媒体</h2>
     <div style="display: flex; align-items: center; margin: 10px">
         <a href="https://x.com/gongzhencn/" target="_blank">
-        <img style="height: 20px;" align=center src="image/x.png" alt="X" /></a>
+        <img style="height: 30px;" align=center src="image/x.png" alt="X" /></a>
         <a href="https://www.instagram.com/gongzhencn/" target="_blank">
-        <img style="height: 20px;" align=center src="image/instagram.png" alt="Instagram" /></a>
+        <img style="height: 30px;" align=center src="image/instagram.png" alt="Instagram" /></a>
         <a href="https://space.bilibili.com/553097381" target="_blank">
-        <img style="height: 20px;" align=center src="image/bilibili.png" alt="bilibili" /></a>
+        <img style="height: 30px;" align=center src="image/bilibili.png" alt="bilibili" /></a>
         <a href="https://steamcommunity.com/profiles/76561199037641939/" target="_blank">
-        <img style="height: 20px;" align=center src="image/steam.png"/ alt="Steam" ></a>
+        <img style="height: 30px;" align=center src="image/steam.png"/ alt="Steam" ></a>
         <a href="https://afdian.com/a/Ckize" target="_blank">
-        <img style="height: 20px;" align=center src="image/afdian.png" alt="爱发电" /></a>
+        <img style="height: 30px;" align=center src="image/afdian.png" alt="爱发电" /></a>
     </div>
 </div>
-
-<hr>
-
-![图片](image/pic.png)
