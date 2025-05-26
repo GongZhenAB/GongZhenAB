@@ -4,11 +4,7 @@
 
 <div style="margin-bottom: 20px">
     <h2 align="center">统计</h2>
-    <div style="display: flex; align-items: center;">
-        <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=GongZhenAB&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default" alt="概览" />
-        <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GongZhenAB&locale=cn&line_height=33&theme=&langs_count=5" alt="我的语言" />
-    </div>
-    <img width="100%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GongZhenAB&bg_color=ffffff&color=32c832&line=32c832&point=64c864&area=true&hide_border=true" alt="Github Activity Graph" />
+    <img width="100%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GongZhenAB&bg_color=ffffff00&color=32c832&line=32c832&point=64c864&area=true&hide_border=true" alt="Github Activity Graph" />
 </div>
 
 <img src="images/divider.png" alt="divider" />
@@ -24,15 +20,15 @@
     <h2 align="center">社交媒体</h2>
     <div style="display: flex; align-items: center; margin: 10px">
         <a href="https://x.com/gongzhencn/" target="_blank">
-        <img height="50px" align="center" src="images/x.png" alt="X" /></a>
+        <img align="center" src="images/x.png" alt="X" /></a>
         <a href="https://www.instagram.com/gongzhencn/" target="_blank">
-        <img height="50px" align="center" src="images/instagram.png" alt="Instagram" /></a>
+        <img align="center" src="images/instagram.png" alt="Instagram" /></a>
         <a href="https://space.bilibili.com/553097381" target="_blank">
-        <img height="50px" align="center" src="images/bilibili.png" alt="bilibili" /></a>
+        <img align="center" src="images/bilibili.png" alt="bilibili" /></a>
         <a href="https://steamcommunity.com/profiles/76561199037641939/" target="_blank">
-        <img height="50px" align="center" src="images/steam.png" alt="Steam" /></a>
+        <img align="center" src="images/steam.png" alt="Steam" /></a>
         <a href="https://afdian.com/a/Ckize" target="_blank">
-        <img height="50px" align="center" src="images/afdian.png" alt="爱发电" /></a>
+        <img align="center" src="images/afdian.png" alt="爱发电" /></a>
     </div>
 </div>
 
