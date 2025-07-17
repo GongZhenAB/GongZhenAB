@@ -24,6 +24,7 @@
         <picture>
             <img width="45%" src="metrics-anime.svg" alt="Anime" />
         </picture>
+    </div>
     <picture>
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GongZhenAB&bg_color=ffffff00&color=32c832&line=32c832&point=64c864&area=true&hide_border=true" alt="Github Activity Graph" />
     </picture>
