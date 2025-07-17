@@ -9,7 +9,7 @@
 <div align="center">
     <div>
         <picture>
-            <img width="45%" src="github-metrics.svg" alt="Github Metrics" />
+            <img width="45%" src="metrics-overview.svg" alt="Overview" />
         </picture>
         <picture>
             <a href="https://www.pixiv.net/artworks/131814702">
@@ -17,6 +17,13 @@
             </a>
         </picture>
     </div>
+    <div>
+        <picture>
+            <img width="45%" src="metrics-code.svg" alt="Code" />
+        </picture>
+        <picture>
+            <img width="45%" src="metrics-anime.svg" alt="Anime" />
+        </picture>
     <picture>
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GongZhenAB&bg_color=ffffff00&color=32c832&line=32c832&point=64c864&area=true&hide_border=true" alt="Github Activity Graph" />
     </picture>
