@@ -24,6 +24,13 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: labels
 
+          plugin_code: yes
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: GongZhenCN
+          plugin_wakatime_section: time
+
           plugin_anilist: yes
           plugin_anilist_user: GongZhenCN
           plugin_anilist_medias: anime,manga

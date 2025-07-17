@@ -12,7 +12,7 @@
             <img width="45%" src="github-metrics.svg" alt="Github Metrics" />
         </picture>
         <picture>
-            <a href="https://www.pixiv.net/artworks/131814702" target="_blank">
+            <a href="https://www.pixiv.net/artworks/131814702">
                 <img align="top" width="45%" src="images/pic.png" alt="pic" />
             </a>
         </picture>
@@ -23,28 +23,28 @@
 </div>
 
 <div align="right">
-    <a href="https://x.com/gongzhencn" target="_blank">
+    <a href="https://x.com/gongzhencn">
         <img height="24" src="images/twitter.png">
     </a>
-    <a href="https://www.instagram.com/gongzhencn" target="_blank">
+    <a href="https://www.instagram.com/gongzhencn">
         <img height="24" src="images/instagram.png">
     </a>
-    <a href="https://gongz.top/src/assets/images/qrcodes/wx-mp.jpg" target="_blank">
+    <a href="https://gongz.top/src/assets/images/qrcodes/wx-mp.jpg">
         <img height="24" src="images/wechat.png">
     </a>
-    <a href="https://www.youtube.com/@Ckize" target="_blank">
+    <a href="https://www.youtube.com/@Ckize">
         <img height="24" src="images/youtube.png">
     </a>
-    <a href="https://www.twitch.tv/gongzhencn" target="_blank">
+    <a href="https://www.twitch.tv/gongzhencn">
         <img height="24" src="images/twitch.png">
     </a>
-    <a href="https://steamcommunity.com/profiles/76561199037641939" target="_blank">
+    <a href="https://steamcommunity.com/profiles/76561199037641939">
         <img height="24" src="images/steam.png">
     </a>
-    <a href="https://www.xbox.com/play/user/Gongzhen9707" target="_blank">
+    <a href="https://www.xbox.com/play/user/Gongzhen9707">
         <img height="24" src="images/xbox.png">
     </a>
-    <a href="https://profile.playstation.com/GongZhenCN" target="_blank">
+    <a href="https://profile.playstation.com/GongZhenCN">
         <img height="24" src="images/playstation.png">
     </a>
 </div>
