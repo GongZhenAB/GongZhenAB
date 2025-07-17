@@ -1,6 +1,6 @@
 <div align="center">
     <h2>👋 Hi, I'm Zhen</h2>
-    <p>🎓 Senior High Student | 💻 Full Stack-Engineer | 🎮 Gamer | 🌸 ACG Lover</p>
+    <p>🎓 Senior High Student | 💻 Full-Stack Engineer | 🎮 Gamer | 🌸 ACG Lover</p>
     <picture>
         <img src="images/skills.png" alt="Tech Stack" />
     </picture>
