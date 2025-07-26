@@ -31,5 +31,5 @@
 </div>
 
 <picture>
-    <img align="right" height="60" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ek3dl4epbkxadv2t24xuozeiu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+    <img align="right" height="80" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ek3dl4epbkxadv2t24xuozeiu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
 </picture>
