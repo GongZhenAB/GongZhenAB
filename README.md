@@ -9,50 +9,25 @@
 <div align="center">
     <div>
         <picture>
-            <img width="45%" src="metrics-overview.svg" alt="Overview" />
+            <img width="45%" src="metrics-overview.svg" alt="metrics-overview" />
         </picture>
         <picture>
             <a href="https://www.pixiv.net/artworks/131814702">
-                <img align="top" width="45%" src="images/pic.png" alt="pic" />
+                <img align="top" width="45%" src="images/pic.png" alt="pixiv-artwork" />
             </a>
         </picture>
     </div>
     <div>
         <picture>
-            <img width="45%" src="metrics-code.svg" alt="Code" />
+            <img width="45%" src="metrics-code.svg" alt="metrics-code" />
         </picture>
         <picture>
-            <img width="45%" src="metrics-anime.svg" alt="Anime" />
+            <img width="45%" src="metrics-anime.svg" alt="metrics-anime" />
         </picture>
     </div>
     <picture>
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GongZhenAB&bg_color=ffffff00&color=32c832&line=32c832&point=64c864&area=true&hide_border=true" alt="Github Activity Graph" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GongZhenAB&bg_color=ffffff00&color=32c832&line=32c832&point=64c864&area=true&hide_border=true" alt="activity-graph" />
     </picture>
 </div>
 
-<div align="right">
-    <a href="https://x.com/gongzhencn">
-        <img height="24" src="images/twitter.png">
-    </a>
-    <a href="https://www.instagram.com/gongzhencn">
-        <img height="24" src="images/instagram.png">
-    </a>
-    <a href="https://gongz.top/src/assets/images/qrcodes/wx-mp.jpg">
-        <img height="24" src="images/wechat.png">
-    </a>
-    <a href="https://www.youtube.com/@Ckize">
-        <img height="24" src="images/youtube.png">
-    </a>
-    <a href="https://www.twitch.tv/gongzhencn">
-        <img height="24" src="images/twitch.png">
-    </a>
-    <a href="https://steamcommunity.com/profiles/76561199037641939">
-        <img height="24" src="images/steam.png">
-    </a>
-    <a href="https://www.xbox.com/play/user/Gongzhen9707">
-        <img height="24" src="images/xbox.png">
-    </a>
-    <a href="https://profile.playstation.com/GongZhenCN">
-        <img height="24" src="images/playstation.png">
-    </a>
-</div>
+<img align="right" height="60" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ek3dl4epbkxadv2t24xuozeiu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
