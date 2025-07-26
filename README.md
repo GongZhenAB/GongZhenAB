@@ -9,7 +9,7 @@
 <div align="center">
     <div>
         <picture>
-            <img width="45%" src="metrics-overview.svg" alt="metrics-overview" />
+            <img width="45%" src="images/metrics-overview.svg" alt="metrics-overview" />
         </picture>
         <picture>
             <a href="https://www.pixiv.net/artworks/131814702">
@@ -19,10 +19,10 @@
     </div>
     <div>
         <picture>
-            <img width="45%" src="metrics-code.svg" alt="metrics-code" />
+            <img width="45%" src="images/metrics-code.svg" alt="metrics-code" />
         </picture>
         <picture>
-            <img width="45%" src="metrics-anime.svg" alt="metrics-anime" />
+            <img width="45%" src="images/metrics-anime.svg" alt="metrics-anime" />
         </picture>
     </div>
     <picture>
