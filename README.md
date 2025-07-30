@@ -1,5 +1,5 @@
 <picture>
-    <img width="100%" src="images/header.png" alt="Zhen" />
+    <img width="100%" src="images/header.svg" alt="Zhen" />
 </picture>
 
 <div align="center">
