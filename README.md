@@ -1,10 +1,6 @@
-<div align="center">
-    <h2>👋 Hi, I'm Zhen</h2>
-    <p>🎓 Senior High Student | 💻 Full-Stack Engineer | 🎮 Gamer | 🌸 ACG Lover</p>
-    <picture>
-        <img src="images/skills.png" alt="Tech Stack" />
-    </picture>
-</div>
+<picture>
+    <img width="100%" src="images/header.png" alt="Zhen" />
+</picture>
 
 <div align="center">
     <div>
