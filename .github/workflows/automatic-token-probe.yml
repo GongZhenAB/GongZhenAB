@@ -30,3 +30,17 @@ jobs:
           committer_branch: test/automatic-github-token-20261121
           filename: images/metrics-token-probe.svg
           base: header
+      - name: Test code metrics with the built-in token
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ github.token }}
+          committer_token: ${{ github.token }}
+          committer_branch: test/automatic-github-token-20261121
+          filename: images/metrics-code-token-probe.svg
+          base: ""
+          plugin_code: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: GongZhenCN
+          plugin_wakatime_section: time
+          plugins_errors_fatal: yes
