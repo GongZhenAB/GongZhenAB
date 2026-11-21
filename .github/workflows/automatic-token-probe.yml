@@ -1,0 +1,46 @@
+name: Automatic GitHub token probe
+
+on:
+  push:
+    branches:
+      - test/automatic-github-token-20261121
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  check-automatic-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify the built-in token can read this repository
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY" --jq '.full_name'
+          echo "Automatic repository token is available."
+      - name: Test Metrics with the built-in token
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ github.token }}
+          committer_token: ${{ github.token }}
+          committer_branch: test/automatic-github-token-20261121
+          filename: images/metrics-token-probe.svg
+          base: header
+      - name: Test code metrics with the built-in token
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ github.token }}
+          committer_token: ${{ github.token }}
+          committer_branch: test/automatic-github-token-20261121
+          filename: images/metrics-code-token-probe.svg
+          base: ""
+          plugin_code: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: GongZhenCN
+          plugin_wakatime_section: time
+          plugins_errors_fatal: yes

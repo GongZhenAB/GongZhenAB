@@ -17,6 +17,8 @@ jobs:
         with:
           filename: "images/metrics-overview.svg"
           token: ${{ secrets.METRICS_TOKEN }}
+          # Repository writes use GitHub's short-lived, automatic token.
+          committer_token: ${{ github.token }}
           
           plugin_isocalendar: yes
           plugin_lines: yes
@@ -28,6 +30,8 @@ jobs:
         with:
           filename: "images/metrics-code.svg"
           token: ${{ secrets.METRICS_TOKEN }}
+          # Repository writes use GitHub's short-lived, automatic token.
+          committer_token: ${{ github.token }}
           base: ""
           
           plugin_code: yes
@@ -40,6 +44,8 @@ jobs:
         with:
           filename: "images/metrics-anime.svg"
           token: ${{ secrets.METRICS_TOKEN }}
+          # Repository writes use GitHub's short-lived, automatic token.
+          committer_token: ${{ github.token }}
           base: ""
           
           plugin_anilist: yes
