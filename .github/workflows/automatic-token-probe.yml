@@ -5,6 +5,9 @@ on:
     branches:
       - test/automatic-github-token-20261121
   workflow_dispatch:
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: write
